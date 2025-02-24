@@ -1,0 +1,53 @@
+## User-specific files
+.idea/
+.vscode/
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer log files
+*.log
+
+## Windows service logs
+*.pdb
+*.vspscc
+
+## .NET Core build directories
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+
+## ASP.NET Core runtime directories
+artifacts/
+
+## Windows Installer
+*.exe
+*.dll
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## .NET Core / Visual Studio for Mac
+.vscode/
+.idea/
+
+## ASP.NET
+.vs/
+.vscode/
+
+# Ignore bin and obj folders anywhere in the repository
+**/bin/
+**/bin/**/*
+**/obj/
+**/obj/**/*
